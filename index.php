@@ -10,6 +10,7 @@
 <body>
     <h1>Код проекта №3</h1>
     <p>Параграф</p>
+    <p>2ой параграф</p>
     <script src="/js/main.js"></script>
 </body>
 </html>
